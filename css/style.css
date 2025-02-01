@@ -461,6 +461,10 @@ body.dark .loader_line:after{
 	clear: both;
 	float: left;
 }
+.percentage-bar .circle {
+    background-color: #add8e6 !important; /* Light blue color */
+    /* other styles */
+}
 .iknow_tm_topbar .iknow_tm_button{
 	width: auto;
 	margin-left: 30px;
